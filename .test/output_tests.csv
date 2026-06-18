@@ -1,0 +1,6 @@
+"Math Test", "", ".*2020.*2458882.*\n\n.*1918.*2421832.*\n\n.*37050.*101.*", "regex"
+"Test Formatting", "", "Julian Day Number for today's date, \d+\/\d+\/\d+, is \d+
+
+Julian Day Number for birthday, \d+\/\d+\/\d+, is \d+
+
+The difference in days is \d+, which makes you approximately \d+ years old!", "regex"
